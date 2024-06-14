@@ -1,2 +1,2 @@
 # WeatherApp
-Weather app for Android phones using the Flutter framework
+Weather app for Android phones built with the Flutter framework
