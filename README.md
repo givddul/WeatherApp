@@ -3,7 +3,7 @@
 This Weather App was developed using the <em>Flutter</em> framework as part of the course <em>Introduction to App Development 1DV535</em>, summer 2023. The app provides current weather information and a 5-day weather forecast based on the user's location. The app uses the <em>OpenWeatherMap API</em> to fetch weather data.
 
 ## Features
-- **Current Weather**: Displays information like temperature, weather conditions, wind, humidity, visibility and a suitible gif icon.
+- **Current Weather**: Displays information like temperature, weather conditions, wind, humidity, visibility and a suitable gif icon.
 - **5-Day Forecast**: Provides a detailed 5-day weather forecast.
 - **About Page**: Information about the app and its developer.
 - **Dark Mode**: Toggle between a dark and light theme.
